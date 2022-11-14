@@ -38,6 +38,6 @@ Alias=google-drive.service
 7. sudo systemctl start google-drive
 8. sudo systemctl status google-drive
 
-
+----
 
 sudo apt-get install transmission-daemon
