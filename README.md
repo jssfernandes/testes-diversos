@@ -1,5 +1,5 @@
 # testes-diversos
-
+- Configurar linux com RDP
 THE FIVE CONFIGURATION COMMANDS :
 ---------------------------------
 1. sudo apt update && sudo apt upgrade -y
@@ -9,7 +9,7 @@ THE FIVE CONFIGURATION COMMANDS :
 5. sudo passwd ubuntu      Example password : t6y1Jx9n6h7j1  so long,complex and not in a dictionary
 
 ---
-
+- Configurar google drive sync
 1. sudo add-apt-repository ppa:alessandro-strada/ppa
 2. sudo apt update
 3. sudo apt install google-drive-ocamlfuse
@@ -40,4 +40,5 @@ Alias=google-drive.service
 
 ----
 
+- configurar transmission daemon
 sudo apt-get install transmission-daemon
